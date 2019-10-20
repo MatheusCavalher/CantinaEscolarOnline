@@ -1,0 +1,51 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#criterio_1 {
+    box-shadow:0 0 0 1000px #C2DA00 inset !important;
+}
+
+#criterio_2 {
+    box-shadow: 0 0 0 1000px #642390 inset !important;
+}
+
+#criterio_3 {
+    box-shadow: 0 0 0 1000px #F50060 inset !important;
+}
+
+#criterio_4 {
+    box-shadow: 0 0 0 1000px #F89c00 inset !important;
+}
+
+#criterio_5 {
+    box-shadow: 0 0 0 1000px #00BFBE inset !important;
+}
+
+#criterio_6 {
+    box-shadow: 0 0 0 1000px #C78EC7 inset !important;
+}
+
+#criterio_7 {
+    box-shadow: 0 0 0 1000px #8AD1E0 inset !important;
+}
+
+#criterio_8 {
+    box-shadow: 0 0 0 1000px #F9CB9C inset !important;
+}
+
+#criterio_9 {
+    box-shadow: 0 0 0 1000px #D9D2E9 inset !important;
+}
+
+#criterio_10 {
+    box-shadow: 0 0 0 1000px #C78EC7 inset !important;
+}
+
+#criterio_11 {
+    box-shadow: 0 0 0 1000px #8AD1E0 inset !important;
+}
+
+#criterio_12 {
+    box-shadow: 0 0 0 1000px #F9CB9C inset !important;
+}
